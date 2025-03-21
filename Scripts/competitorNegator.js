@@ -1,0 +1,1 @@
+// Basic Google Ads script
