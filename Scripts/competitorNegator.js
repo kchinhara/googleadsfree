@@ -1,1 +1,1 @@
-// Basic Google Ads script
+// Full Google Ads Competitor Negator script
