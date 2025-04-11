@@ -5,7 +5,7 @@
 // Make a copy of this Google Sheet and paste the URL of your copy in between the single quotes below 'https://docs.google.com/spreadsheets/d/1gf8mj1aTU3FfYm4DspKmHHjxz3-WYlF8sIMH1Jy7QSs/edit?usp=sharing'
 
 // Enter your Google Sheet URL here between the single quotes
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1JSXiFWoLtZl-c7C8deE7Zax0c2QwAwcAhWB3sDRfs1g/edit?usp=sharing';
+const SHEET_URL = '';
 
 // Enter the name of the sheet/tab where you want the data to be exported
 const TAB_NAME = 'Raw Data';
